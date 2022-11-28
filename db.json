@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Laptop Asus 507",
+    "price": 1500,
+    "cpu": "Core i7",
+    "tag": [
+      "Computer",
+      "Laptop",
+      "Intel"
+    ]
+  },
+  {
+    "title": "Latopt MSI G660",
+    "price": 2500,
+    "cpu": "Core i9",
+    "tag": [
+      "Computer","Laptop","Intel"
+    ]
+  }
+]
