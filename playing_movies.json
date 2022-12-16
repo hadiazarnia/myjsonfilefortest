@@ -1,15 +1,15 @@
 [
   {
     "id": 0,
-    "movie_name": "Smile",
-    "movie_imdb": "6,6/10",
-    "movie_description": "After witnessing a bizarre, traumatic incident involving a patient, Dr. Rose Cotter starts experiencing frightening occurrences that she can't explain. As an overwhelming terror begins taking over her life, Rose must confront her troubling past in order to survive and escape her horrifying new reality.",
-    "movie_director": "Parker Finn",
-    "movie_ganre": "Popular",
-    "movie_time": "1h 55m",
-    "movie_img": "https://catalog.cinema-api.com/cf/images/ncg-images/cd85a0955fd147d7a7342cdb850fbd0d.jpg",
-    "movie_trailer": "https://dx35vtwkllhj9.cloudfront.net/paramountpictures/smile/images/regions/us/share.png",
-    "trailer_link": "https://www.aparat.com/v/2T4cp/%D8%AA%D8%B1%DB%8C%D9%84%D8%B1_%D9%81%DB%8C%D9%84%D9%85_Smile_2022_%28%D8%B2%DB%8C%D8%B1%D9%86%D9%88%DB%8C%D8%B3_%D9%81%D8%A7%D8%B1%D8%B3%DB%8C%29"
+    "movie_name": "M3GAN",
+    "movie_imdb": "Unknown",
+    "movie_description": "M3GAN is a marvel of artificial intelligence, a lifelike doll that's programmed to be a child's greatest companion and a parent's greatest ally. Designed by Gemma, a brilliant roboticist, M3GAN can listen, watch and learn as it plays the role of friend and teacher, playmate and protector. When Gemma becomes the unexpected caretaker of her 8-year-old niece, she decides to give the girl an M3GAN prototype, a decision that leads to unimaginable consequences.",
+    "movie_director": "Gerard Johnstone",
+    "movie_ganre": "Horror/Sci-fi",
+    "movie_time": "1h 42m",
+    "movie_img": "https://m.media-amazon.com/images/M/MV5BMDk4MTdhYzEtODk3OS00ZDBjLWFhNTQtMDI2ODdjNzQzZTA3XkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_FMjpg_UX1000_.jpg",
+    "movie_trailer": "https://www.goldderby.com/wp-content/uploads/2022/10/Screenshot-2022-10-11-11.57.50-AM.png",
+    "trailer_link": "https://www.youtube.com/watch?v=BRb4U99OU80"
   },
   {
     "id": 1,
@@ -49,6 +49,18 @@
   },
   {
     "id": 4,
+    "movie_name": "Bullet Train",
+    "movie_imdb": "7.3/10",
+    "movie_description": "Ladybug is an unlucky assassin who's determined to do his job peacefully after one too many gigs has gone off the rails. Fate, however, may have other plans as his latest mission puts him on a collision course with lethal adversaries from around the globe -- all with connected yet conflicting objectives -- on the world's fastest train.",
+    "movie_director": "David Leitch",
+    "movie_ganre": "Popular",
+    "movie_time": "2h 6m",
+    "movie_img": "https://m.media-amazon.com/images/M/MV5BMDU2ZmM2OTYtNzIxYy00NjM5LTliNGQtN2JmOWQzYTBmZWUzXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg",
+    "movie_trailer": "https://cdn.forumcomm.com/dims4/default/21052e6/2147483647/strip/true/crop/1199x799+0+1/resize/840x560!/quality/90/?url=https%3A%2F%2Fforum-communications-production-web.s3.amazonaws.com%2Fbrightspot%2F63%2F3a%2F1969c76f4edc99edb76fa61b1e84%2Fbullet-train-movie-poster.jpg",
+    "trailer_link": "https://www.aparat.com/v/78GLw/%D8%AA%D8%B1%DB%8C%D9%84%D8%B1_%D9%81%DB%8C%D9%84%D9%85_Bullet_Train_2022"
+  },
+  {
+    "id": 5,
     "movie_name": "Bullet Train",
     "movie_imdb": "7.3/10",
     "movie_description": "Ladybug is an unlucky assassin who's determined to do his job peacefully after one too many gigs has gone off the rails. Fate, however, may have other plans as his latest mission puts him on a collision course with lethal adversaries from around the globe -- all with connected yet conflicting objectives -- on the world's fastest train.",
