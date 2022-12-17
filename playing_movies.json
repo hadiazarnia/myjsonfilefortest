@@ -1,15 +1,15 @@
 [
   {
     "id": 0,
-    "movie_name": "M3GAN",
-    "movie_imdb": "Unknown",
-    "movie_description": "M3GAN is a marvel of artificial intelligence, a lifelike doll that's programmed to be a child's greatest companion and a parent's greatest ally. Designed by Gemma, a brilliant roboticist, M3GAN can listen, watch and learn as it plays the role of friend and teacher, playmate and protector. When Gemma becomes the unexpected caretaker of her 8-year-old niece, she decides to give the girl an M3GAN prototype, a decision that leads to unimaginable consequences.",
-    "movie_director": "Gerard Johnstone",
-    "movie_ganre": "Horror/Sci-fi",
-    "movie_time": "1h 42m",
-    "movie_img": "https://m.media-amazon.com/images/M/MV5BMDk4MTdhYzEtODk3OS00ZDBjLWFhNTQtMDI2ODdjNzQzZTA3XkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_FMjpg_UX1000_.jpg",
-    "movie_trailer": "https://www.goldderby.com/wp-content/uploads/2022/10/Screenshot-2022-10-11-11.57.50-AM.png",
-    "trailer_link": "https://www.youtube.com/watch?v=BRb4U99OU80"
+    "movie_name": "Spider-Man: No Way Home",
+    "movie_imdb": "8.3/10",
+    "movie_description": "Spider-Man seeks the help of Doctor Strange to forget his exposed secret identity as Peter Parker. However, Strange's spell goes horribly wrong, leading to unwanted guests entering their universe.",
+    "movie_director": "Jon Watts",
+    "movie_ganre": "Action/Adventure",
+    "movie_time": "2h 28m",
+    "movie_img": "https://m.media-amazon.com/images/M/MV5BZWMyYzFjYTYtNTRjYi00OGExLWE2YzgtOGRmYjAxZTU3NzBiXkEyXkFqcGdeQXVyMzQ0MzA0NTM@._V1_FMjpg_UX1000_.jpg",
+    "movie_trailer": "https://vigiato.net/wp-content/uploads/2021/12/maxresdefault-8.jpg",
+    "trailer_link": "https://hajifirouz4.asset.aparat.com/aparat-video/dfd7920d64301e4b2793ba63c48d393639657079-480p.mp4?wmsAuthSign=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjBiODEyYmEwYzAzOTg0M2I0NmQxMTczMGQxYjJkMmFkIiwiZXhwIjoxNjcxMzAzNzMxLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.McCXkmxXZe_Epzp9pCXwnNLmwrucwvqy5d-bQOryonw"
   },
   {
     "id": 1,
