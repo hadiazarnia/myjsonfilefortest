@@ -1,0 +1,44 @@
+[
+  {
+    "movie_id": 0,
+    "movie_name": "Slender Man",
+    "movie_img": "https://m.media-amazon.com/images/M/MV5BMjE0MzcwMDAyNl5BMl5BanBnXkFtZTgwMzc4ODg0NDM@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+    "movie_time": "1h 40m"
+  },
+  {
+    "movie_id": 1,
+    "movie_name": "Friday the 13th",
+    "movie_img": "https://m.media-amazon.com/images/M/MV5BNWMxYTYzYWQtNGZmNy00MTg5LTk1N2MtNzQ5NjQxYjQ5NTJhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg",
+    "movie_time": "1h 37m"
+  },
+  {
+    "movie_id": 2,
+    "movie_name": "Nightbooks",
+    "movie_img": "https://m.media-amazon.com/images/I/51zwP2Ogt4L._AC_SY780_.jpg",
+    "movie_time": "1h 43m"
+  },
+  {
+    "movie_id": 3,
+    "movie_name": "The Babysitter",
+    "movie_img": "https://m.media-amazon.com/images/I/8152KtpUBwL.jpg",
+    "movie_time": "1h 25m"
+  },
+  {
+    "movie_id": 4,
+    "movie_name": "Dabbe: Curse of the Jinn",
+    "movie_img": "https://images.sr.roku.com/idType/roku/context/global/id/8d9f8fcce1c85862956e8c2e671e8621/images/gracenote/assets/p14994397_b_v12_ab.jpg",
+    "movie_time": "2h 25m"
+  },
+  {
+    "movie_id": 5,
+    "movie_name": "Veronica",
+    "movie_img": "https://m.media-amazon.com/images/M/MV5BMmRkMDQzYzItZDFhMS00YzM1LTk0ZGMtZmExMzdiNzEwOTE4XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+    "movie_time": "1h 45m"
+  },
+  {
+    "movie_id": 6,
+    "movie_name": "Fantasy Island",
+    "movie_img": "https://cdn.artcld.com/img/w_1920,h_1920,c_fit/s42osc1y9ah3czmox1lc.jpg",
+    "movie_time": "1h 49m"
+  }
+]
