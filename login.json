@@ -1,7 +1,5 @@
 [
-  {
-    { username:"hadi.azarnia.org@gmail.com",password="12345"},
-    { username:"example@email.com",password="12345"},
-    { username:"mmd@gmail.com",password="12345"},
-  }
+    { username:"hadi.azarnia.org@gmail.com", password="12345"},
+    { username:"example@email.com", password="12345"},
+    { username:"mmd@gmail.com", password="12345"},
 ];
